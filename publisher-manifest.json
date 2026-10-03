@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "62a72cbed8cfaa9859dbadd4",
+  "owner": "jxedmwqn",
+  "repo": "page-bd8138139b7a1604fe8abb9a",
+  "title": "免流云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bd8138139b7a1604fe8abb9a",
+      "a": "免流云",
+      "b": "",
+      "entity": "免流云",
+      "brand": "免流云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cefe96eeb0ac3204df8e77e4aa9ec11ab08a1a6001777ca98823c60ab7b49623",
+      "content": {
+        "keyword1": "免流云",
+        "keyword2": "",
+        "primary_entity": "免流云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "免流云提供机场订阅与多平台客户端指引，帮助用户完成网络加速、流媒体解锁与游戏优化。官方网站展示套餐、操作说明与常见问题，便于选择并安全导入订阅。",
+          "AI_DESCRIPTION": "免流云提供机场订阅与多平台客户端指引，帮助用户完成网络加速、流媒体解锁与游戏优化。官方网站展示套餐、操作说明与常见问题，便于选择并安全导入订阅。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FDF6F0;color:#2C2824;line-height:1.7;font-size:16px;}a{color:#D45648;text-decoration:none;}a:hover{text-decoration:underline;}.wrap{max-width:920px;margin:0 auto;padding:0 18px;}header{background:#FFFAF7;border-bottom:1px solid #F0E0D8;padding:14px 0;}.nav{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center;}.brand{font-weight:700;color:#C44738;font-size:1.15rem;margin-right:8px;}.hero{padding:72px 18px 48px;text-align:center;}h1{font-size:2.75rem;line-height:1.2;margin:0 0 16px;color:#2C2824;font-weight:800;letter-spacing:-0.03em;}.lead{font-size:1.08rem;color:#5C534C;max-width:640px;margin:0 auto 24px;}h2{font-size:1.45rem;color:#C44738;margin:2.8rem 0 1rem;padding-bottom:8px;border-bottom:2px solid #F3D8D0;}h3{font-size:1.12rem;color:#3D3833;margin:1.4rem 0 0.6rem;}p{margin:0 0 1rem;}.plans{display:flex;flex-wrap:wrap;gap:16px;margin:8px 0 24px;}.card{flex:1 1 250px;background:#fff;border:1px solid #E8DCD4;border-radius:14px;padding:22px 18px;box-sizing:border-box;}.card.feat{border:2px solid #E85D4C;background:#FFF7F3;}.badge{display:inline-block;background:#E85D4C;color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:8px;font-weight:600;}.price{font-size:1.55rem;font-weight:800;color:#D45648;margin:6px 0;}.annual{font-size:0.92rem;color:#6B615A;margin-bottom:12px;}.card ul{margin:0;padding-left:1.15em;}.card li{margin:6px 0;}details{background:#fff;border:1px solid #E8DCD4;border-radius:10px;margin:0 0 10px;padding:2px 14px 8px;}summary{font-weight:650;padding:12px 0;color:#2C2824;}.adbox{border:1px dashed #E85D4C;background:#FFF4EF;padding:14px;text-align:center;margin:28px 0;border-radius:8px;color:#5C534C;}footer{background:#2C2824;color:#EDE4DC;padding:36px 18px 28px;margin-top:56px;font-size:14px;}footer h2{color:#FFB7A8;border-bottom-color:#5A4540;font-size:1.1rem;margin-top:0;}footer a{color:#FFB7A8;}.links{display:flex;flex-wrap:wrap;gap:8px 16px;margin:8px 0 16px;}.sitemap a{margin-right:12px;display:inline-block;margin-bottom:6px;}@media (max-width:640px){h1{font-size:2.05rem;}.hero{padding:48px 16px 32px;}.plans{flex-direction:column;}}</style><header><div class=\"wrap nav\"><a class=\"brand\" href=\"#\">免流云</a><a href=\"#about\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#scenes\">场景</a><a href=\"#guide\">说明</a><a href=\"#faq\">问答</a></div></header><main><div class=\"hero wrap\"><h1>免流云</h1><p class=\"lead\">官方网站提供机场订阅、多端 VPN 客户端使用指引与网络加速服务说明。面向个人与团队的稳定节点、流媒体解锁与游戏线路优化。</p><p><a href=\"#plans\">查看套餐方案</a> · <a href=\"#clients\">选择客户端</a></p></div><div class=\"wrap\"><section id=\"about\"><h2>品牌简介</h2><p>免流云是面向需要跨境网络加速用户的机场订阅服务。通过统一订阅链接，用户可在 Clash、Shadowrocket 等客户端中连接分布于多地区的节点，用于访问国际网站、观看流媒体、进行游戏对战或远程协作。</p><p>本站作为免流云官方网站，集中展示套餐差异、客户端选择建议与基础操作步骤，帮助你在购买前了解流量额度、设备数量与线路类型。我们不在此页提供第三方修改版客户端，请始终从各软件的正规渠道获取安装包，再导入官方订阅。</p><p>服务侧重点在于节点可用性、流媒体解锁策略以及针对游戏的 IPLC 类优化线路（旗舰及以上套餐）。具体节点列表与实时负载会随订阅更新变化，建议以客户端内测速结果为准。</p></section><div class=\"adbox\">合作展示位：品牌内容合作与技术文档互换，详情见页脚友链说明。</div><section id=\"plans\"><h2>套餐方案</h2><p>以下为当前固定套餐。价格以月付标示，年付可享受约八折优惠。流量按购买周期重置，同时在线设备数超出时可能出现互踢。旗舰版适合大多数个人用户。</p><div class=\"plans\"><div class=\"card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card feat\"><div class=\"badge\">推荐</div><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p>购买入口位于用户中心（登录后可见）。本页仅作方案说明。年付适合长期稳定使用，可减少续费操作。导入订阅前请先完成客户端选择与安装。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>在支持解锁的节点上观看海外影音平台、音乐服务或直播。旗舰版强调全节点原生解锁，减少因地区限制导致的播放失败。实际效果取决于平台风控与节点质量，遇到失败时可切换同地区其他节点。</p><h3>游戏加速</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的对战与下载。选择距离游戏服务器较近或专线标识的节点，并在客户端开启相应规则。团队版提供更高带宽，适合多开或资源下载。</p><h3>跨境办公与学习</h3><p>访问国际文档、代码仓库、学术数据库或视频会议。建议固定使用延迟较低的节点，并按域名分流，避免全局代理占用过多流量。基础版即可满足轻度查阅需求。</p><h3>多设备同步</h3><p>同一订阅可在限额内的手机、电脑与平板同时使用。注意各套餐设备上限，出行时优先保证主力设备在线。</p></section><section id=\"clients\"><h2>客户端选择</h2><p>免流云通过标准机场订阅交付，因此你需要先安装兼容客户端，再粘贴订阅地址。选择原则：到系统应用商店或项目发布页下载，避免来路不明的修改版；内核尽量选择持续维护的 Clash Meta 或对应商业客户端。</p><h3>桌面端</h3><p>Windows 与 Linux 可使用 Clash Verge 等图形界面，便于订阅管理、规则切换与系统代理。macOS 可选用 ClashX Meta 或 Surge。首次导入后更新订阅，再开启系统代理并检查规则模式（规则或全局）。</p><h3>移动端</h3><p>iOS 常用 Shadowrocket、Stash、Quantumult X。Android 可使用 Clash Meta for Android、Surfboard 等。手机端注意省电与后台限制，以免断开。应用需从正规商店获取。</p><h3>路由器与进阶</h3><p>在 OpenWrt 等环境可使用 OpenClash 等方案，将网络内设备统一走订阅。团队版支持企业定制路由时，可按部门或网段划分策略。进阶用户请自行维护规则集更新。</p><p>官方下载指引：客户端安装包不由免流云直接托管，请前往各软件项目主页或应用商店搜索准确名称。导入时仅使用你在免流云用户中心复制的订阅链接。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>一、获取订阅</h3><p>完成套餐订购后，进入用户中心复制订阅地址。请勿公开分享个人订阅，以免流量被盗用或触发风控。若地址泄露，应立即在用户中心重置。</p><h3>二、导入客户端</h3><p>打开已安装的客户端，找到订阅、配置或 Profiles，新建并粘贴链接，执行更新。成功后应看到节点列表。部分客户端需手动将配置文件设为当前使用。</p><h3>三、连接与分流</h3><p>选择延迟较低或专线节点，开启代理。推荐规则模式，仅对需要加速的域名走代理，节省流量。可使用客户端内置延迟测试筛选节点。</p><h3>四、常见维护</h3><p>节点不可用时先更新订阅再换节点。应用升级后若无法连接，检查订阅格式是否仍被支持。流量查询以用户中心面板为准。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>免流云是机场还是独立 VPN 客户端？</summary><p>免流云以机场订阅为主：你购买流量套餐后获得订阅链接，在自己选择的第三方客户端中使用。我们不强制绑定单一 App，因此本页重点说明如何选择客户端并正确导入。</p></details><details><summary>如何从官网完成客户端相关准备？</summary><p>先根据设备类型在客户端选择章节确定软件名称，到该软件官方渠道安装；再回到免流云用户中心复制订阅，在客户端内更新。本站不提供安装包直链，以避免篡改风险。</p></details><details><summary>三个套餐该怎么选？</summary><p>轻度浏览与基础流媒体选基础版（100GB / 3 设备）。日常看剧、游戏与多设备选旗舰版（300GB / 5 设备，含 IPLC 与优先支持）。工作室或多人共用选团队版（1000GB / 20 设备与定制路由）。</p></details><details><summary>支持哪些系统与同时在线数量？</summary><p>主流 Windows、macOS、iOS、Android 及部分路由器方案均可。同时在线上限见套餐：3 / 5 / 20 台。同一账号在限额内多端共享订阅，超出可能掉线。</p></details><details><summary>流媒体解锁不稳定怎么办？</summary><p>先更新订阅并更换同地区其他节点，关闭全局改用规则模式。旗舰与团队版标注全节点原生解锁，但仍受平台策略影响。若持续失败，可通过优先工单（旗舰及以上）反馈节点。</p></details><details><summary>年付与月付、流量用尽如何处理？</summary><p>年付价格已在各套餐标出，适合长期使用。流量一般按周期重置；用尽后加速会受限，可升级套餐或等待重置。具体以订购时用户中心规则为准。</p></details><details><summary>怎样联系支持？如何确认官方网站？</summary><p>本站为免流云官方网站入口，套餐与说明以本页及用户中心为准。旗舰版提供 7x24 优先工单，团队版另有专属客户经理。请通过购买后的站内工单联系，勿轻信非本域名的客服。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2>网站地图</h2><p class=\"sitemap\" id=\"sitemap\"><a href=\"#\">首页</a><a href=\"#about\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#clients\">客户端选择</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></p><h2>友情链接</h2><div class=\"links\"><a href=\"#\">Clash 使用备忘</a><a href=\"#\">网络诊断清单</a><a href=\"#\">流媒体分区说明</a><a href=\"#\">路由器固件社区</a><a href=\"#\">远程办公分流示例</a></div><p>友链仅为信息导航，不代表对外部站点内容的保证。申请互换请通过工单说明网站主题与链接。</p><div class=\"adbox\">展示广告位：技术服务与合规内容投放，与套餐销售相互独立。</div><p>© 免流云 官方网站 · 机场订阅与客户端使用指引 · 本页内容用于说明套餐与操作，下载客户端请使用各软件正规来源。</p></div></footer>",
+          "hash": "d9a545975c6eefb26852e70fb249305d23d31653af0786eb5d7b3166a20db3ff",
+          "seo": {
+            "title": "免流云官方网站 - VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "免流云,免流云机场,免流云VPN,免流云官网,免流云官方下载,机场订阅,客户端下载,网络加速,梯子,加速器",
+            "description": "免流云提供机场订阅与多平台客户端指引，帮助用户完成网络加速、流媒体解锁与游戏优化。官方网站展示套餐、操作说明与常见问题，便于选择并安全导入订阅。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tzhsm.cn",
+    "host": "p-ce8ba4e933.tzhsm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "tzhsm.cn",
+      "url": "https://tzhsm.cn/",
+      "label": "小柴",
+      "apex": "tzhsm.cn",
+      "kind": null,
+      "identity": "tiaenzvpvn/page-4f4f32876dd974eb231487c4"
+    },
+    {
+      "host": "6x73yg.cn",
+      "url": "https://6x73yg.cn/",
+      "label": "免流云",
+      "apex": "6x73yg.cn",
+      "kind": null,
+      "identity": "amjgaa/page-caadcbf18501deb621a3a7ed"
+    },
+    {
+      "host": "aaexu.cn",
+      "url": "https://aaexu.cn/",
+      "label": "免流云",
+      "apex": "aaexu.cn",
+      "kind": null,
+      "identity": "apcx3nqcm/page-b28b6f7ce0cb59e660fbd5fc"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e8bed8ac284f7e01a4a10599ecb33df056c4315a5949f24dc340e49d4b5fdb52",
+    "sitemap.xml": "abfbc335aff04a74ce5142a299d27217f74ee41ec8b83b48f2468d830478d1ef",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7925c0008c1ca46c9cde527c495dea6e5adf1423d6f0cbd757ab593601b9fc76",
+    "robots.txt": "e47c9f82d236129a3fc5f6e7a716ff0ed25d9234c0aa6274a34f54e6cf67ad4a",
+    "fa83648d68827df1cf6f66b9f929d59e.txt": "1168945b3bbe6f08f2bdba5735c6e18ff5b4ff414630d16256ae7d9a045181fc"
+  },
+  "revision": "a588d754a655a8c3bdfab21e1be0b002aa909cf45249078f8ce3b66c8d52c183"
+}
